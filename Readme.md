@@ -2,7 +2,7 @@
 
 ### Desarrollador Full Stack | SaaS · Aplicaciones Web · IA
 
-Soy desarrollador Full Stack con experiencia construyendo aplicaciones
+Soy un apasionado desarrollador Full Stack con experiencia construyendo aplicaciones
 web y productos digitales de principio a fin.
 
 Trabajo principalmente con React, Next.js, Node.js y TypeScript,
@@ -29,19 +29,19 @@ digitales y SaaS**.
 
 ### Frontend
 
-React · Next.js · TypeScript · Tailwind CSS
+<img src="./Icons/React-Dark.svg" alt="React" width="40" height="40" /> <img src="./Icons/NextJS-Dark.svg" alt="Next.js" width="40" height="40" /> <img src="./Icons/TypeScript.svg" alt="TypeScript" width="40" height="40" /> <img src="./Icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="40" height="40" />
 
 ### Backend
 
-Node.js · Express · NestJS
+<img src="./Icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="40" /> <img src="./Icons/ExpressJS-Dark.svg" alt="Express" width="40" height="40" /> <img src="./Icons/NestJS-Dark.svg" alt="NestJS" width="40" height="40" />
 
 ### Bases de datos
 
-PostgreSQL · MySQL · MongoDB
+<img src="./Icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40" /> <img src="./Icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40" /> <img src="./Icons/MongoDB.svg" alt="MongoDB" width="40" height="40" />
 
 ### Cloud & Herramientas
 
-AWS · Azure · Docker · Git · GitHub · Figma
+<img src="./Icons/AWS-Dark.svg" alt="AWS" width="40" height="40" /> <img src="./Icons/Azure-Dark.svg" alt="Azure" width="40" height="40" /> <img src="./Icons/Docker.svg" alt="Docker" width="40" height="40" /> <img src="./Icons/Git.svg" alt="Git" width="40" height="40" /> <img src="./Icons/Github-Dark.svg" alt="GitHub" width="40" height="40" /> <img src="./Icons/Figma-Dark.svg" alt="Figma" width="40" height="40" />
 
 ### Inteligencia Artificial
 
@@ -99,19 +99,17 @@ Artificial para generar videos orientados a alcance y conversión.
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats] https://github.com/BrandonDevAI
 
 ---
 
 ## 📫 Contacto
 
-🌐 **Portafolio:** TU_PORTAFOLIO
+🌐 **Portafolio:** https://brandon-dev.vercel.app/
 
-💼 **LinkedIn:** TU_LINKEDIN
+📧 **Email:** brandonmillonaire08@gmail.com
 
-📧 **Email:** TU_EMAIL
-
-💬 **WhatsApp:** TU_WHATSAPP
+💬 **WhatsApp:** +51 954309429
 
 ---
 
