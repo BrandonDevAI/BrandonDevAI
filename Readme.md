@@ -74,6 +74,7 @@ y optimizacion de recusos asi como pruebas de despliegue en produccion.
 Plataforma educativa para estudiantes que se preparan para ingresar a la
 universidad, con banco de preguntas, simulacros en tiempo real y
 funcionalidades impulsadas por IA.
+
 https://sanmarcosgo.com
 
 **·Next.js · Tailwind CSS · Cloudflare(AWS) · PostgreSQL . PrismaORM . Supabase . Culqui . OpenAI GPT-4**
@@ -89,6 +90,7 @@ con clientes y apoyar procesos comerciales mediante IA.
 
 Producto SaaS enfocado en la creación de contenido mediante Inteligencia
 Artificial para generar videos orientados a alcance y conversión.
+
 https://viral-flowy.vercel.app
 
 **Next.js · Tailwind . GSAP . Three .  OpenAI(GPT-4 y DALL-E 3). PayPal SDK · PostgreSQL . PrismaORM  ·Supabase**
